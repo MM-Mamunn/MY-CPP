@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+#include <numeric>
+using namespace std;
+#define goog(tno) cout << "Case #" << tno <<": "
+#define fast_io ios_base::sync_with_stdio(false);cin.tie(NULL)
+#define ll long long
+#define forc(c,n) for(int i=c;i<n;i++)
+#define PI (acos(-1.0))
+#define pb push_back
+#define vi vector<long long >
+#define eps 1e-12
+#define all(a) sort(a.begin(),a.end());
+#define torad(x) ((x) * ((2*acos(0))/180.0))
+#define todeg(x) ((x) * (180.0/(2*acos(0))))
+
+/* //functions template paste here*/
+///_______________________MAMUN___________________________
+
+void init_code()
+{
+    fast_io;
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    #endif
+}
+void solve()
+{ 
+    ll n=0,a,b,x,minn=0,maxx=0;
+
+}
+int main()
+{
+//init_code();
+  int t=1;
+//  cin>>t;
+  while(t--)
+  {
+      solve();
+  }
+
+    return 0;
+}
