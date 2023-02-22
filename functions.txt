@@ -1,4 +1,4 @@
-/*  // integer to binary;
+/*nothing  // integer to binary;
 //here y need not to declare
  bitset<8>y(5);
 cout<<y<<endl;
